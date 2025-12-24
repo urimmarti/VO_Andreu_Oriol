@@ -1,0 +1,7 @@
+
+path: /home/oriol/IA-Universitat/VO_Andreu_Oriol/PF/final_split_dataset
+train: train/images
+val: val/images
+test: test/images
+nc: 1
+names: ['implante']
